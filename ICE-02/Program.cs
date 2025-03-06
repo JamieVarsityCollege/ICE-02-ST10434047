@@ -12,8 +12,6 @@ namespace ICE_02
         static void Main(string[] args)
         {
             new MusicPlayer();
-            Console.WriteLine("Press any key to exit:");
-            Console.ReadKey();
         }
     }
 }
